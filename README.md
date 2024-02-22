@@ -1,4 +1,4 @@
-Usar los comandos sin espacio por favor, así:
+Usar los comandos sin espacios por favor, así:
   
   unaryInvoke(java.lang.Math,abs,int,3)
   
